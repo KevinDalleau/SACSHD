@@ -1,0 +1,352 @@
+Synthetic dataset, 500 samples, 5 features. Noise = 0.0
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.44959566433928383 (standard deviation : 0.0122487367105143) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.02
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.36930333487117073 (standard deviation : 0.010292303540813025) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.04
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4348576512667496 (standard deviation : 0.012897864178739383) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.06
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4004182029451009 (standard deviation : 0.012671499115565353) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.08
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3488992623729531 (standard deviation : 0.00712721121357491) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.1
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3636822829990115 (standard deviation : 0.007916189199167348) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.12
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.38879877689149317 (standard deviation : 0.011911795479122118) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.14
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.434814586217381 (standard deviation : 0.010373924584708299) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.16
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3647716632890628 (standard deviation : 0.01000005468284146) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.18
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3473306406478638 (standard deviation : 0.008146610240045685) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.2
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4068547222140696 (standard deviation : 0.008717934946601736) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.22
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3439565305345559 (standard deviation : 0.009550578224600637) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.24
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3805082374546365 (standard deviation : 0.01302663342260641) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.26
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3947463833807142 (standard deviation : 0.011559640160660883) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.28
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3624332569330277 (standard deviation : 0.008127627556155188) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.3
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3125949264953686 (standard deviation : 0.005269356705463481) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.32
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.34838430581674135 (standard deviation : 0.008372525128534682) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.34
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.35635057853966357 (standard deviation : 0.013395021494692435) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.36
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.33991365849800753 (standard deviation : 0.00699605670022987) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.38
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.33498977043619027 (standard deviation : 0.0076790528795581655) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.4
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.33196522415005314 (standard deviation : 0.011762950116288988) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.42
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.38209933087443193 (standard deviation : 0.009848648905375268) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.44
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.31952836335682694 (standard deviation : 0.009018146085524714) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.46
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3194077559924698 (standard deviation : 0.006808997993453302) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Noise = 0.48
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2991770232912257 (standard deviation : 0.010770676381354042) 
+
+----------
+
+[(0.44959566433928383, 0.0122487367105143, 0.0), (0.36930333487117073, 0.010292303540813025, 0.02), (0.43485765126674958, 0.012897864178739383, 0.04), (0.40041820294510089, 0.012671499115565353, 0.06), (0.3488992623729531, 0.00712721121357491, 0.08), (0.36368228299901151, 0.0079161891991673481, 0.1), (0.38879877689149317, 0.011911795479122118, 0.12), (0.43481458621738101, 0.010373924584708299, 0.14), (0.3647716632890628, 0.01000005468284146, 0.16), (0.34733064064786379, 0.008146610240045685, 0.18), (0.4068547222140696, 0.0087179349466017363, 0.2), (0.34395653053455588, 0.0095505782246006372, 0.22), (0.38050823745463652, 0.013026633422606409, 0.24), (0.39474638338071422, 0.011559640160660883, 0.26), (0.36243325693302769, 0.008127627556155188, 0.28), (0.31259492649536857, 0.0052693567054634812, 0.3), (0.34838430581674135, 0.0083725251285346816, 0.32), (0.35635057853966357, 0.013395021494692435, 0.34), (0.33991365849800753, 0.0069960567002298702, 0.36), (0.33498977043619027, 0.0076790528795581655, 0.38), (0.33196522415005314, 0.011762950116288988, 0.4), (0.38209933087443193, 0.0098486489053752676, 0.42), (0.31952836335682694, 0.0090181460855247135, 0.44), (0.31940775599246979, 0.0068089979934533021, 0.46), (0.2991770232912257, 0.010770676381354042, 0.48)]
+Synthetic dataset, 500 samples. Noise = 0.0
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.25144317051887544 (standard deviation : 0.007220760325607131) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.02
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2528953601927711 (standard deviation : 0.005472663868829504) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.04
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.25037325514538156 (standard deviation : 0.005720749376825428) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.06
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.25257831994859437 (standard deviation : 0.00586515554515171) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.08
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2511069544481928 (standard deviation : 0.007423599744667062) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.1
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.24636746327389555 (standard deviation : 0.006719395800207527) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.12
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2416767860048193 (standard deviation : 0.006620819962185889) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.14
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.23970879831646585 (standard deviation : 0.008169866019783648) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.16
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.23522643039357433 (standard deviation : 0.00628013376590761) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.18
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2290493707694779 (standard deviation : 0.006063660977073422) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.2
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2223383603534137 (standard deviation : 0.005896448611856635) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.22
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.21586086275341368 (standard deviation : 0.005379622317765324) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.24
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.20962965731726912 (standard deviation : 0.005713559115259412) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.26
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.20266788468433736 (standard deviation : 0.004083319081993054) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.28
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.1952916033799197 (standard deviation : 0.004522883453684918) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.3
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.19109479913895583 (standard deviation : 0.0031675167477646184) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.32
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.1840782486232932 (standard deviation : 0.003872737981876983) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.34
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.17652003846425707 (standard deviation : 0.002762256603073916) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.36
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.1709326331502008 (standard deviation : 0.002898272296818258) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.38
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.1667401627759036 (standard deviation : 0.0030865884965597143) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.4
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.16080419917108438 (standard deviation : 0.00279166404159353) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.42
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.15337971167871486 (standard deviation : 0.002471591440098999) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.44
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.1486573446040161 (standard deviation : 0.002468188514328501) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.46
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.14385627546987956 (standard deviation : 0.0015647525019733164) 
+
+----------
+
+Synthetic dataset, 500 samples. Noise = 0.48
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.13778148959357434 (standard deviation : 0.0015308112302139603) 
+
+----------
+
+[(0.25144317051887544, 0.0072207603256071312, 0.0), (0.25289536019277109, 0.005472663868829504, 0.02), (0.25037325514538156, 0.0057207493768254283, 0.04), (0.25257831994859437, 0.0058651555451517097, 0.06), (0.25110695444819281, 0.0074235997446670619, 0.08), (0.24636746327389555, 0.0067193958002075274, 0.1), (0.24167678600481929, 0.0066208199621858891, 0.12), (0.23970879831646585, 0.0081698660197836483, 0.14), (0.23522643039357433, 0.0062801337659076101, 0.16), (0.2290493707694779, 0.0060636609770734224, 0.18), (0.2223383603534137, 0.0058964486118566351, 0.2), (0.21586086275341368, 0.0053796223177653242, 0.22), (0.20962965731726912, 0.0057135591152594123, 0.24), (0.20266788468433736, 0.004083319081993054, 0.26), (0.19529160337991969, 0.0045228834536849179, 0.28), (0.19109479913895583, 0.0031675167477646184, 0.3), (0.18407824862329319, 0.0038727379818769832, 0.32), (0.17652003846425707, 0.0027622566030739162, 0.34), (0.1709326331502008, 0.0028982722968182578, 0.36), (0.16674016277590359, 0.0030865884965597143, 0.38), (0.16080419917108438, 0.00279166404159353, 0.4), (0.15337971167871486, 0.0024715914400989989, 0.42), (0.14865734460401611, 0.0024681885143285009, 0.44), (0.14385627546987956, 0.0015647525019733164, 0.46), (0.13778148959357434, 0.0015308112302139603, 0.48)]

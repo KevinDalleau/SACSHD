@@ -1,0 +1,17 @@
+-----------------------------------------------------
+
+Mixed types datasets
+
+-----------------------------------------------------
+
+----------
+Synthetic datasets
+----------
+[0, 0, 1, 1, 1, 1, 0, 0]
+Test dataset (with clusters - mixed values) - 500 samples. 4 continuous columns, 4 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.355725377015261 (standard deviation : 0.0062630795364521236) 
+
+----------
+

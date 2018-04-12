@@ -1,0 +1,25 @@
+-----------------------------------------------------
+
+Categorical datasets
+
+-----------------------------------------------------
+
+----------
+Synthetic datasets
+----------
+[1, 1]
+Test dataset (with clusters - Categorical) - 500 samples. 2 categorical columns, 2 classes
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3878024526136546 (standard deviation : 0.0056322520442131175) 
+
+----------
+
+[1, 1, 1, 1]
+Test dataset (with clusters - Categorical) - 500 samples. 4 categorical columns
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3387119213236948 (standard deviation : 0.006461112361974617) 
+
+----------
+

@@ -1,0 +1,33 @@
+-----------------------------------------------------
+
+Continuous datasets
+
+-----------------------------------------------------
+
+----------
+Synthetic datasets
+----------
+[0, 0]
+Test dataset (with clusters - Continuous) - 500 samples. 2 continuous columns, 2 classes
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4685188292240963 (standard deviation : 0.001466483216074671) 
+
+----------
+
+[0, 0]
+Test dataset (with clusters - Continuous) - 450 samples. 2 continuous columns, 3 classes
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.5289590341536167 (standard deviation : 0.0006796386390174286) 
+
+----------
+
+[0, 0, 0, 0]
+Test dataset (with clusters - Continuous) - 500 samples. 4 continuous columns
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.48731109004337353 (standard deviation : 0.008252212116633363) 
+
+----------
+

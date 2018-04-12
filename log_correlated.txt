@@ -1,0 +1,155 @@
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 0
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.10072693212121213 (standard deviation : 0.004593267830055803) 
+
+----------
+
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 1
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.10345855898989897 (standard deviation : 0.008736515271668188) 
+
+----------
+
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 2
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.12841300868686867 (standard deviation : 0.006235675145354994) 
+
+----------
+
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 3
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.10733639131313129 (standard deviation : 0.0067522313010294766) 
+
+----------
+
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 4
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.15827948222222218 (standard deviation : 0.005507648037098508) 
+
+----------
+
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 5
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3073871911111111 (standard deviation : 0.006296069007141563) 
+
+----------
+
+[(0.10072693212121213, 0.0045932678300558026, 0), (0.10345855898989897, 0.0087365152716681882, 1), (0.12841300868686867, 0.0062356751453549941, 2), (0.10733639131313129, 0.0067522313010294766, 3), (0.15827948222222218, 0.0055076480370985078, 4), (0.30738719111111112, 0.006296069007141563, 5)]
+[  7.45255503  -0.24651073   1.78347159   9.05941334  -9.39307332
+  -9.70653162 -10.91334939   7.19340513   5.47801942   6.83594193]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 0
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3478253956348908 (standard deviation : 0.011738787769171116) 
+
+----------
+
+[  7.45255503  -0.24651073   1.78347159   9.05941334  -9.39307332
+  -9.70653162 -10.91334939   7.19340513   5.47801942   0.4171529 ]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 1
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.35091992299807495 (standard deviation : 0.011753409258046122) 
+
+----------
+
+[  7.45255503  -0.24651073   1.78347159   9.05941334  -9.39307332
+  -9.70653162 -10.91334939   7.19340513   0.03291111   0.38578202]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 2
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.27243518542509015 (standard deviation : 0.007338304282520042) 
+
+----------
+
+[  7.45255503  -0.24651073   1.78347159   9.05941334  -9.39307332
+  -9.70653162 -10.91334939   0.11992807   0.71714611   0.02568341]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 3
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.25094387541506713 (standard deviation : 0.010241849967538961) 
+
+----------
+
+[ 7.45255503 -0.24651073  1.78347159  9.05941334 -9.39307332 -9.70653162
+  0.2366508   0.67554411  0.11104945  0.43896992]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 4
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.22451340010772994 (standard deviation : 0.012532867246439946) 
+
+----------
+
+[ 7.45255503 -0.24651073  1.78347159  9.05941334 -9.39307332  0.89104176
+  0.1231826   0.81188095  0.80537676  0.14507748]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 5
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.1763893415517206 (standard deviation : 0.010304387683142785) 
+
+----------
+
+[(0.34782539563489079, 0.011738787769171116, 0), (0.35091992299807495, 0.011753409258046122, 1), (0.27243518542509015, 0.0073383042825200416, 2), (0.25094387541506713, 0.010241849967538961, 3), (0.22451340010772994, 0.012532867246439946, 4), (0.17638934155172059, 0.010304387683142785, 5)]
+[  7.45255503  -0.24651073   1.78347159   9.05941334  -9.39307332
+  -9.70653162 -10.91334939   7.19340513   5.47801942   6.83594193]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 0
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.34845864919350256 (standard deviation : 0.009633400711825776) 
+
+----------
+
+[  7.45255503  -0.24651073   1.78347159   9.05941334  -9.39307332
+  -9.70653162 -10.91334939   7.19340513   5.47801942  76.52555031]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 1
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3546853344060874 (standard deviation : 0.009296756169732953) 
+
+----------
+
+[  7.45255503  -0.24651073   1.78347159   9.05941334  -9.39307332
+  -9.70653162 -10.91334939   7.19340513  34.90511006  76.52555031]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 2
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.35856075810986177 (standard deviation : 0.008698578838646798) 
+
+----------
+
+[   7.45255503   -0.24651073    1.78347159    9.05941334   -9.39307332
+   -9.70653162  -10.91334939  189.17357971   34.90511006   76.52555031]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 3
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.35646934536999786 (standard deviation : 0.008511831246338048) 
+
+----------
+
+[  7.45255503e+00  -2.46510726e-01   1.78347159e+00   9.05941334e+00
+  -9.39307332e+00  -9.70653162e+00   4.67520739e+02   1.89173580e+02
+   3.49051101e+01   7.65255503e+01]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 4
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.34206617710897314 (standard deviation : 0.009171437071878676) 
+
+----------
+
+[  7.45255503e+00  -2.46510726e-01   1.78347159e+00   9.05941334e+00
+  -9.39307332e+00   1.77008296e+02   4.67520739e+02   1.89173580e+02
+   3.49051101e+01   7.65255503e+01]
+Synthetic dataset, 200 samples, 10 features. Number of redundant features = 5
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.31401599721811224 (standard deviation : 0.006762967187936454) 
+
+----------
+
+[(0.34845864919350256, 0.0096334007118257757, 0), (0.3546853344060874, 0.0092967561697329532, 1), (0.35856075810986177, 0.0086985788386467981, 2), (0.35646934536999786, 0.0085118312463380481, 3), (0.34206617710897314, 0.0091714370718786759, 4), (0.31401599721811224, 0.0067629671879364537, 5)]

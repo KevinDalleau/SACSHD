@@ -1,0 +1,39 @@
+-----------------------------------------------------
+
+Synthetic datasets with no cluster structure
+
+-----------------------------------------------------
+
+Test dataset (no clusters) - (1000, 4)
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.00024563934108212947 (standard deviation : 8.180272567236492e-05) 
+
+----------
+
+Test dataset (no clusters) - (1000, 50)
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.00020956537234469996 (standard deviation : 5.5809294058087566e-05) 
+
+----------
+
+-----------------------------------------------------
+
+Synthetic datasets with a cluster structure
+
+-----------------------------------------------------
+
+Test dataset (with clusters - mixed values) - (1000, 4)
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.6534354013338678 (standard deviation : 0.006314477563493519) 
+
+----------
+
+Test dataset (with clusters - continuous variables) - (1000, 4)
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.37957590745330655 (standard deviation : 0.004451021250694426) 
+
+

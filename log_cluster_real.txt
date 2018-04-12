@@ -1,0 +1,64 @@
+-----------------------------------------------------
+
+Mixed types datasets
+
+-----------------------------------------------------
+
+----------
+Synthetic datasets
+----------
+[0, 0, 1, 1, 1, 1, 0, 0]
+Test dataset (with clusters - mixed values) - 500 samples. 4 continuous columns, 4 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean nmi : 0.9436756348940991 (standard deviation : 0.09755666206748002), mean duration : 0.7433853149414062 (standard deviation : 0.0) 
+
+----------
+
+-----------------------------------------------------
+
+Categorical datasets
+
+-----------------------------------------------------
+
+----------
+Synthetic datasets
+----------
+[1, 1]
+Test dataset (with clusters - Categorical) - 500 samples. 2 categorical columns, 2 classes
+Summary of all the runs.
+
+Mean nmi : 0.32530556862209087 (standard deviation : 0.04927308884085848), mean duration : 1.4003772735595703 (standard deviation : 0.0) 
+
+----------
+
+----------
+Iris dataset
+----------
+Iris dataset
+Summary of all the runs.
+
+Mean nmi : 0.8298985582919162 (standard deviation : 0.12348071598812589), mean duration : 0.2985529899597168 (standard deviation : 0.0) 
+
+----------
+
+----------
+Wisconsin dataset
+----------
+Wisconsin dataset
+Summary of all the runs.
+
+Mean nmi : 0.7566147920920343 (standard deviation : 0.039005418548952515), mean duration : 1.7892169952392578 (standard deviation : 0.0) 
+
+----------
+
+----------
+Soybean dataset
+----------
+Soybean dataset
+Summary of all the runs.
+
+Mean nmi : 0.8105002618196974 (standard deviation : 0.028963758603777857), mean duration : 0.42697668075561523 (standard deviation : 0.0) 
+
+----------
+

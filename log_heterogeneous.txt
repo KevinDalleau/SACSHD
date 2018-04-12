@@ -1,0 +1,105 @@
+-----------------------------------------------------
+
+Mixed types datasets
+
+-----------------------------------------------------
+
+----------
+Synthetic datasets
+----------
+[0, 0]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 0 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4618756909108434 (standard deviation : 0.0008568927782615143) 
+
+----------
+
+[0, 0, 1]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 1 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.39235233245301204 (standard deviation : 0.007618381196814214) 
+
+----------
+
+[0, 0, 1, 1]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 2 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3009159414618474 (standard deviation : 0.006083996630064773) 
+
+----------
+
+[0, 0, 1, 1, 1]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 3 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.33571487671004013 (standard deviation : 0.004961065289012347) 
+
+----------
+
+[0, 0, 1, 1, 1, 1]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 4 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.320993258139759 (standard deviation : 0.005782509335401152) 
+
+----------
+
+[0, 0, 1, 1, 1, 1, 1]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 5 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2907038751614458 (standard deviation : 0.004617287613001338) 
+
+----------
+
+[0, 0, 1, 1, 1, 1, 1, 1]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 6 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2917072729317269 (standard deviation : 0.006189798527138449) 
+
+----------
+
+[0, 0, 1, 1, 1, 1, 1, 1, 1]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 7 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.29888362948112446 (standard deviation : 0.004538860747565036) 
+
+----------
+
+[0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+Test dataset (with clusters - mixed values) - 500 samples. 2 continuous columns, 8 categorical column with 3 modalities
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2994708040995984 (standard deviation : 0.00500522816044193) 
+
+----------
+
+----------
+Real datasets
+----------
+Credit dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.0624836960076499 (standard deviation : 0.0029671252277853194) 
+
+----------
+
+CMC dataset - Num/Cat
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.010639990764568053 (standard deviation : 0.00048398908089336524) 
+
+----------
+
+CMC dataset - Num/Ord/Cat
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.01413512184331941 (standard deviation : 0.0006587507396145744) 
+
+----------
+

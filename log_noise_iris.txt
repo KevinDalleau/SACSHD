@@ -1,0 +1,176 @@
+Iris dataset - With noise. Noise = 0.0
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.43620387646258507 (standard deviation : 0.008241461412559053) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.02
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4550167167346938 (standard deviation : 0.0045626594801032) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.04
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.39058063945578236 (standard deviation : 0.008300822005144832) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.06
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4170911259863946 (standard deviation : 0.0045965230276161255) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.08
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4040785931972789 (standard deviation : 0.0058067169395989845) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.1
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4152925594557823 (standard deviation : 0.006928383824076836) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.12
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.38707984979591836 (standard deviation : 0.0056990555311883795) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.14
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.36865574312925176 (standard deviation : 0.007135783606794606) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.16
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.38431415510204087 (standard deviation : 0.008833490703025729) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.18
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.32740763591836736 (standard deviation : 0.004492866018031139) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.2
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3288613104761905 (standard deviation : 0.009249008246381911) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.22
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.29167414312925166 (standard deviation : 0.008062777351082882) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.24
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3198182231292517 (standard deviation : 0.0077390805095734734) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.26
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.29756080108843536 (standard deviation : 0.006092841397888366) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.28
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.280872008707483 (standard deviation : 0.009524602744943675) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.3
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2865157610884354 (standard deviation : 0.008665355876806165) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.32
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2753765028571428 (standard deviation : 0.009374876420557053) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.34
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2764075793197279 (standard deviation : 0.006619033739221302) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.36
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2707731178231293 (standard deviation : 0.00801516388510441) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.38
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2342761812244898 (standard deviation : 0.00671188391930667) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.4
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.24204691537414974 (standard deviation : 0.006986755122549493) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.42
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.23795938340136055 (standard deviation : 0.006320588660878719) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.44
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.21205035482993195 (standard deviation : 0.007912610396893196) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.46
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.21951590476190477 (standard deviation : 0.0063526266838908) 
+
+----------
+
+Iris dataset - With noise. Noise = 0.48
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.24275375619047618 (standard deviation : 0.009668715389257563) 
+
+----------
+
+[(0.43620387646258507, 0.008241461412559053, 0.0), (0.4550167167346938, 0.0045626594801032, 0.02), (0.39058063945578236, 0.008300822005144832, 0.04), (0.4170911259863946, 0.0045965230276161255, 0.06), (0.4040785931972789, 0.0058067169395989845, 0.08), (0.4152925594557823, 0.006928383824076836, 0.1), (0.38707984979591836, 0.0056990555311883795, 0.12), (0.36865574312925176, 0.007135783606794606, 0.14), (0.38431415510204087, 0.008833490703025729, 0.16), (0.32740763591836736, 0.004492866018031139, 0.18), (0.3288613104761905, 0.009249008246381911, 0.2), (0.29167414312925166, 0.008062777351082882, 0.22), (0.3198182231292517, 0.0077390805095734734, 0.24), (0.29756080108843536, 0.006092841397888366, 0.26), (0.280872008707483, 0.009524602744943675, 0.28), (0.2865157610884354, 0.008665355876806165, 0.3), (0.2753765028571428, 0.009374876420557053, 0.32), (0.2764075793197279, 0.006619033739221302, 0.34), (0.2707731178231293, 0.00801516388510441, 0.36), (0.2342761812244898, 0.00671188391930667, 0.38), (0.24204691537414974, 0.006986755122549493, 0.4), (0.23795938340136055, 0.006320588660878719, 0.42), (0.21205035482993195, 0.007912610396893196, 0.44), (0.21951590476190477, 0.0063526266838908, 0.46), (0.24275375619047618, 0.009668715389257563, 0.48)]

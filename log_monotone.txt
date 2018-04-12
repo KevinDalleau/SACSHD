@@ -1,0 +1,141 @@
+[ 1.64249334 -2.88623357  7.14562083  8.08185457 -2.42375589]
+[ 1.64249334 -2.88623357  7.14562083  8.08185457 -2.42375589]
+Synthetic dataset, 500 samples, 5 features. Number of columns = 0
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.37897405907695914 (standard deviation : 0.009044753716608036) 
+
+----------
+
+[ 69.60764437  -2.88623357   7.14562083   8.08185457  -2.42375589]
+Synthetic dataset, 500 samples, 5 features. Number of columns = 1
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.40550347624041094 (standard deviation : 0.012312448266469813) 
+
+----------
+
+[  69.60764437 -171.45177811    7.14562083    8.08185457   -2.42375589]
+Synthetic dataset, 500 samples, 5 features. Number of columns = 2
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.42287009855509294 (standard deviation : 0.009127535174004596) 
+
+----------
+
+[  69.60764437 -171.45177811  120.85466332    8.08185457   -2.42375589]
+Synthetic dataset, 500 samples, 5 features. Number of columns = 3
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.37491663118459695 (standard deviation : 0.01170803750720692) 
+
+----------
+
+[  69.60764437 -171.45177811  120.85466332   28.75528676   -2.42375589]
+Synthetic dataset, 500 samples, 5 features. Number of columns = 4
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.42381599912905676 (standard deviation : 0.009550422931066968) 
+
+----------
+
+[  69.60764437 -171.45177811  120.85466332   28.75528676  -14.38782049]
+Synthetic dataset, 500 samples, 5 features. Number of columns = 5
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.37621133131279516 (standard deviation : 0.010511563815837996) 
+
+----------
+
+[(0.37897405907695914, 0.0090447537166080359, 0), (0.40550347624041094, 0.012312448266469813, 1), (0.42287009855509294, 0.0091275351740045963, 2), (0.37491663118459695, 0.01170803750720692, 3), (0.42381599912905676, 0.0095504229310669677, 4), (0.37621133131279516, 0.010511563815837996, 5)]
+[ 0.42166513  0.90675163]
+Synthetic dataset, Moon. 500 samples. Original.
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.29985428427309235 (standard deviation : 0.005654151359565184) 
+
+----------
+
+[ 8.59376766  0.90675163]
+Synthetic dataset, Moon. 500 samples. Number of columns = 1.
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.24151565810120484 (standard deviation : 0.004204465367296835) 
+
+----------
+
+[  8.59376766  62.20660033]
+Synthetic dataset, Moon. 500 samples. Number of columns = 2.
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.287904922075502 (standard deviation : 0.0061155165314435425) 
+
+----------
+
+----------
+Addition
+----------
+Synthetic dataset, 500 samples, 5 features. Original.
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.41880207421552573 (standard deviation : 0.009675171617331694) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Number of columns = 1
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.37511156505348914 (standard deviation : 0.010893400317883826) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Number of columns = 2
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.3721899079885476 (standard deviation : 0.00841934935349861) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Number of columns = 3
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4177084442602831 (standard deviation : 0.008199595247063056) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Number of columns = 4
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4127247662050889 (standard deviation : 0.007605154348751075) 
+
+----------
+
+Synthetic dataset, 500 samples, 5 features. Number of columns = 5
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.4225463498673271 (standard deviation : 0.012271756566777443) 
+
+----------
+
+[(0.37511156505348914, 0.010893400317883826, 1), (0.37218990798854762, 0.0084193493534986102, 2), (0.41770844426028308, 0.0081995952470630563, 3), (0.41272476620508891, 0.0076051543487510751, 4), (0.42254634986732709, 0.012271756566777443, 5)]
+Synthetic dataset, Moon. 500 samples. Original.
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2634614998618474 (standard deviation : 0.003453273640829238) 
+
+----------
+
+Synthetic dataset, Moon. 500 samples. Number of columns = 1.
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.27918664902168666 (standard deviation : 0.008965448111262982) 
+
+----------
+
+Synthetic dataset, Moon. 500 samples. Number of columns = 2.
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.27506048226184737 (standard deviation : 0.0047081694926868894) 
+
+----------
+

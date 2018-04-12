@@ -1,0 +1,84 @@
+----------
+Iris dataset
+----------
+Iris dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.431255485170068 (standard deviation : 0.00563318653146594) 
+
+----------
+
+----------
+Wisconsin dataset
+----------
+Wisconsin dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.22590424798421788 (standard deviation : 0.004825843815130207) 
+
+----------
+
+----------
+Promoters dataset
+----------
+Promoters dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.026864097543609834 (standard deviation : 0.0014690510629284848) 
+
+----------
+
+----------
+Soybean dataset
+----------
+Soybean dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.2369882027638675 (standard deviation : 0.006233220463511719) 
+
+----------
+
+----------
+Spect dataset
+----------
+Spect dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.059685260574015755 (standard deviation : 0.004488504996166033) 
+
+----------
+
+----------
+Madelon dataset
+----------
+Madelon dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.0002667587227891302 (standard deviation : 0.0001480087651708444) 
+
+----------
+
+----------
+Isolet dataset
+----------
+Isolet dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.09837127577148734 (standard deviation : 0.003444848386686483) 
+
+----------
+
+----------
+Pima dataset
+----------
+Pima dataset
+Summary of all the runs.
+
+Mean difference between intercluster similarities and intracluster similarities : 0.024709726443929086 (standard deviation : 0.0010729604292928888) 
+
+----------
+
+----------
+Spam base dataset
+----------
+Spam base dataset
