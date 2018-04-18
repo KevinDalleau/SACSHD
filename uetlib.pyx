@@ -1,4 +1,3 @@
-# cython: profile=True
 cimport numpy as np2
 import numpy as np
 import math
@@ -49,9 +48,9 @@ cdef np2.int16_t get_type(column,n):
 		type = 1 # "nom"
 	return(type)
 
-cdef float random_split(values,type):
+cdef np2.float64_t random_split(values,type):
 	if type==0:
-		split = np.random.uniform(np.mean(values),np.std(values))
+		split = np.random.normal(np.mean(values),np.std(values))
 	if type==1:
 		split = random.choice(values)
 	return(split)
@@ -389,19 +388,8 @@ cdef build_randomized_tree2(data, nmin, coltypes):
 	return(np.array(leaves, dtype = np.ndarray))
 
 
-
-
-
-
-
-
-
-from scipy.sparse import dok_matrix
-
-cdef np2.ndarray[np2.float_t, ndim=2] build_randomized_tree_and_get_sim(data, nmin, coltypes):
-	# matrix = np.array([[0 for i in range(len(data))] for j in range(len(data))])
-	matrix = np.zeros((len(data),len(data)))
-	# matrix = dok_matrix((len(data),len(data)))
+cdef np2.ndarray[np2.int16_t, ndim=2] build_randomized_tree_and_get_sim(data, nmin, coltypes):
+	matrix = [[0 for i in range(len(data))] for j in range(len(data))]
 	cdef np2.ndarray[np2.int16_t, ndim=1] instanceslist = np.linspace(0,len(data)-1,len(data),dtype=np.int16)
 	cdef np2.ndarray[np2.int16_t, ndim=1] indices = np.linspace(0,len(data)-1,len(data),dtype=np.int16)
 	cdef np2.ndarray[np2.int16_t, ndim=1] attributes = np.linspace(0,data.shape[1]-1,data.shape[1],dtype=np.int16)
@@ -423,9 +411,9 @@ cdef np2.ndarray[np2.float_t, ndim=2] build_randomized_tree_and_get_sim(data, nm
 	cdef np2.ndarray[np2.float64_t, ndim=1] col = data[:,attributes[rand_index]]
 	attributes_indices = np.delete(attributes_indices,np.argwhere(attributes_indices==rand_index),0)
 
-	cdef int col_type = coltypes[rand_index]
+	cdef np2.int_t col_type = coltypes[rand_index]
 
-	cdef float split_value = random_split(col,col_type)
+	split_value = random_split(col,col_type)
 
 	if col_type == 0:
 		node_left_indices = np.where(col < split_value)[0] # Indices of instances in left
@@ -446,7 +434,7 @@ cdef np2.ndarray[np2.float_t, ndim=2] build_randomized_tree_and_get_sim(data, nm
 				matrix[p1][p2]+=1
 	else:
 		nodes.append((node_left_indices,node_left_instances,node_left_d))
-	if(len(node_right_indices) < nmin): # We are in a leaf node
+	if(len(node_right_indices) < nmin):
 		numLocalLeaves = len(node_right_instances)
 		for i1 in range(numLocalLeaves):
 			p1 = node_right_instances[i1]
@@ -518,7 +506,7 @@ cdef np2.ndarray[np2.float_t, ndim=2] build_randomized_tree_and_get_sim(data, nm
 				for i2 in range(numLocalLeaves):
 					p2 = node_instances[i2]
 					matrix[p1][p2]+=1
-	return(matrix)
+	return(np.array(matrix))
 
 def get_sim(data,nmin,coltypes):
 	leaves = build_randomized_tree2(data,nmin,coltypes)
